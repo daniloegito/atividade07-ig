@@ -1,2 +1,1 @@
-# Atividade 07 - Tecs. de Desenv. de Interface Gráfica (2020.1)
-Crie um formulário que realize o cadastro de um aluno em uma plataforma
+Atividade 7 referente a disciplina Tecs. de Desenv. de Interface Gráfica (2020.1)
